@@ -14,4 +14,6 @@ jobs:
         inputs:
           x: 5
           y: 5
+        Output:
+          10
 ```
